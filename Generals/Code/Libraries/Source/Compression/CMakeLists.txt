@@ -1,1 +1,3 @@
 project(GeneralsCodeLibrariesSourceCompression)
+
+add_subdirectory(EAC)
